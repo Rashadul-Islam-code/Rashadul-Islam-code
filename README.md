@@ -1,4 +1,4 @@
-# Hi, I'm Rashadul Islam! 👋
+# Hi, I'm Rashadul Islam 
 
 **Aspiring Software Engineer** | Passionate about **Problem Solving** & **Fullstack Development**
 
