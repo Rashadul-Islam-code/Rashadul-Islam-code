@@ -11,7 +11,7 @@
 🎯 Focused on mastering fullstack dev and problem-solving  
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)  
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/rashadul-islam47)  
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rashadul-islam47/)  
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Click%20Here-informational?style=flat&logo=firefox)](https://yourportfolio.com)
 
    </td>
